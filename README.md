@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TS-devworks
 - 👀 I’m interested in reading anthology series, playing instruments, and gardening
-- 🌱 I’m currently learning Python3 to be certified soon
+- 🌱 I’m currently learning Python3 to be certified soon. Here I'll be sharing some of those projects.
 
 - 📫 How to reach me ... Email: tjswfhome@gmail.com 
 
